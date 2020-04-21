@@ -39,3 +39,6 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 ## Results <a name="results"></a>
 The main findings of the project can be found at the post available [here](https://medium.com/@vivanks/what-are-developers-into-7a15682cce7e?source=friends_link&sk=118a9b1cede0abac4f70af43446f41da)
+
+## Licensing, Authors, Acknowledgements
+Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
